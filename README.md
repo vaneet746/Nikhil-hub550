@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-hub550&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-hub550" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-hub550" alt="nikhil-hub550" /></a> </p>
 
-- 🔭 I’m currently working on **frontend project**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **ORM and Javascript**
+- 🌱 I’m currently learning **API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhil-hub550](https://github.com/Nikhil-hub550)
 
-- 💬 Ask me about **Anything related to full stack development**
+- 💬 Ask me about **Anything related to full stack web development**
 
 - 📫 How to reach me **Through my social links below**
 
